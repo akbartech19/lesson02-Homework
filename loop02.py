@@ -10,10 +10,10 @@ a2 = float(input("2-uchburchak tomoni: "))
 a3 = float(input("3-uchburchak tomoni: "))
 
 p, s = triangle(a1)
-print(f"1-uchburchak: Perimetri = {p}, Yuzasi = {s:.2f}")
+print(f"1-uchburchak: Peremetri = {p}, Yuzasi = {s:.2f}")
 
 p, s = triangle(a2)
-print(f"2-uchburchak: Perimetri = {p}, Yuzasi = {s:.2f}")
+print(f"2-uchburchak: Peremetri = {p}, Yuzasi = {s:.2f}")
 
 p, s = triangle(a3)
-print(f"3-uchburchak: Perimetri = {p}, Yuzasi = {s:.2f}")
+print(f"3-uchburchak: Peremetri = {p}, Yuzasi = {s:.2f}")
